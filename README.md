@@ -8,8 +8,7 @@
 [more aboute mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 
-My names is Mu’nes Yasin I’m 24 years old . I studied civil engineer at al-balqa applied university . i discovered my passion in software development when i stayed at home due covid 19 . I hope I learn new skills to be software developer .
-https://github.com/MunesYasin 
+
 
 ![mindset](https://i.ytimg.com/vi/OwbVC1_tO_I/maxresdefault.jpg)
 
