@@ -7,5 +7,5 @@ Name of the read | The link
 ------------ | -------------
 growth |[go to](https://munesyasin.github.io/reading-notes/growth) 
 read01 | [go to](https://munesyasin.github.io/reading-notes/read01)
-
+read02 | [go to](https://munesyasin.github.io/reading-notes/read02rev)
 
