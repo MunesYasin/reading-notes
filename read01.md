@@ -12,7 +12,7 @@ We use the Markdawon language ( **MD** language )in Github , this language is si
 
 
  
-**`There are some examples of basic syntax for MD language`** :
+## `There are some examples of basic syntax for MD language` :
  
  * (*) to unordered list
  * (`) to inline the text 
