@@ -4,6 +4,11 @@
 It is allow you to update your projects or someone else’s project offline and you can upload your change to Github and download your change from Github .
 
 *It is based on CLI command which help you more comfortable to deal with your project*. 
+## There are some example for CLI command :
+
+* `mkdir` to create new directory
+* `ls` listing what I have from folders to file 
+* `clear` to clear the screen 
 
 For more details you can visit this [`LINK`](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/).
 
