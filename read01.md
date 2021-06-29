@@ -7,4 +7,6 @@ For deep details you can visit [ *this link* ](https://guides.github.com/feature
 
 <this short article about Github> 
 
-![Github](https://jahed.net/wp-content/uploads/2021/05/github-jahed.png) 
+![Github](https://www.zbw-mediatalk.eu/wp-content/uploads/2015/09/github-cover.jpg)  
+  
+  
