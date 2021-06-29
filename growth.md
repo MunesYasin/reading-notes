@@ -11,3 +11,4 @@
 
 
 ![mindset](https://i.ytimg.com/vi/OwbVC1_tO_I/maxresdefault.jpg)
+.
