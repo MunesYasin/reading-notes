@@ -9,13 +9,11 @@ We use the Markdawon language ( **MD** language )in Github , this language is si
 
 `For deep details you can visit` [ *this link* ](https://guides.github.com/features/mastering-markdown/) 
 
-<this short article about Github> 
+
  
  ## There are some examples of basic syntax for MD language :
  
  * (*) to unordered list
- * [text] (link) to heyperlink the text
- * ![name of image](link of image) to use image
  * (`) to inline the text 
  * (>) to blockquotes the text
  
