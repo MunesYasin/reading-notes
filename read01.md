@@ -7,7 +7,8 @@ Github help developres to work as a team .
 
 We use the Markdawon language ( **MD** language )in Github , this language is similar with *HTML* language but it is more easier ,
 
-`For deep details you can visit` [ *this link* ](https://guides.github.com/features/mastering-markdown/) 
+`For deep details you can visit` [ *this link* ](https://guides.github.com/features/mastering-markdown/) .
+
 
 
  
