@@ -18,20 +18,20 @@ Each HTML page must include a reference to the external style sheet file inside 
 
 ### Example how to link html file to css file :
 
-##### *<!DOCTYPE html>*
+#### *<!DOCTYPE html>*
 
-##### *<html>*
+#### *<html>*
 
-##### *<head>*
-##### *<link rel="stylesheet" href="mystyle.css">*
-##### *</head>*
-##### *<body>*
+#### *<head>*
+#### *<link rel="stylesheet" href="mystyle.css">*
+#### *</head>*
+#### *<body>*
 
-##### *<h1>This is a heading</h1>*
-##### *<p>This is a paragraph.</p>*
+#### *<h1>This is a heading</h1>*
+#### *<p>This is a paragraph.</p>*
 
-##### *</body>*
-##### *</html>*
+#### *</body>*
+#### *</html>*
 
 **CSS** file :
 
@@ -54,10 +54,10 @@ An internal style sheet may be used if one single HTML page has a unique style.
 
 The internal style is defined inside the <style> element, inside the head section.
 ### *Example* 
-##### *<!DOCTYPE html>*
-##### *<html>*
-##### *<head>*
-##### *<style>*
+#### *<!DOCTYPE html>*
+#### *<html>*
+#### *<head>*
+#### *<style>*
 #### *body {*
   #### *background-color: linen;*
 #### *}*
@@ -66,15 +66,15 @@ The internal style is defined inside the <style> element, inside the head sectio
   #### *color: maroon;*
   #### *margin-left: 40px;*
 #### *}*
-##### *</style>*
-##### *</head>*
-##### *<body>*
+#### *</style>*
+#### *</head>*
+#### *<body>*
 
-##### *<h1>This is a heading</h1>*
-##### *<p>This is a paragraph.</p>*
+#### *<h1>This is a heading</h1>*
+#### *<p>This is a paragraph.</p>*
 
-##### *</body>*
-##### *</html>*
+#### *</body>*
+#### *</html>*
 
 
 ### Inline CSS
@@ -84,15 +84,15 @@ To use inline styles, add the style attribute to the relevant element. The style
 
 ### *Example*
 
-##### *<!DOCTYPE html>*
-#####  *<html>*
-##### *<body>*
+#### *<!DOCTYPE html>*
+####  *<html>*
+#### *<body>*
 
-##### *<h1 style="color:blue;text-align:center;">This is a heading</h1>*
-##### *<p style="color:red;">This is a paragraph.</p>*
+#### *<h1 style="color:blue;text-align:center;">This is a heading</h1>*
+#### *<p style="color:red;">This is a paragraph.</p>*
 
-##### *</body>*
-##### *</html>*
+#### *</body>*
+#### *</html>*
 
 
 **For more details visit** [`THIS LINK`](https://www.w3schools.com/css/css_howto.asp)
