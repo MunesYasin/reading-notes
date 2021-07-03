@@ -35,19 +35,19 @@ Each HTML page must include a reference to the external style sheet file inside 
 
 **CSS** file :
 
-*body {*
+#### *body {*
 
-  *background-color: lightblue;*
+ #### *background-color: lightblue;*
 
-*}*
+#### *}*
 
-*h1 {*
+#### *h1 {*
 
-  *color: navy;*
+  #### *color: navy;*
 
-  *margin-left: 20px;*
+  #### *margin-left: 20px;*
 
-*}*
+#### *}*
 
 ### Internal CSS
 An internal style sheet may be used if one single HTML page has a unique style.
@@ -58,14 +58,14 @@ The internal style is defined inside the <style> element, inside the head sectio
 ##### *<html>*
 ##### *<head>*
 ##### *<style>*
-*body {*
-  *background-color: linen;*
-*}*
+#### *body {*
+  #### *background-color: linen;*
+#### *}*
 
-*h1 {*
-  *color: maroon;*
-  *margin-left: 40px;*
-*}*
+#### *h1 {*
+  #### *color: maroon;*
+  #### *margin-left: 40px;*
+#### *}*
 ##### *</style>*
 ##### *</head>*
 ##### *<body>*
