@@ -33,7 +33,7 @@ Each HTML page must include a reference to the external style sheet file inside 
 #### *</body>*
 #### *</html>*
 
-**CSS** file :
+### CSS file :
 
 #### *body {*
 
