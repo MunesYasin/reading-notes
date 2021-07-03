@@ -18,63 +18,63 @@ Each HTML page must include a reference to the external style sheet file inside 
 
 ### Example how to link html file to css file :
 
-##### <!DOCTYPE html>
+##### *<!DOCTYPE html>*
 
-##### <html>
+##### *<html>*
 
-##### <head>
-##### <link rel="stylesheet" href="mystyle.css">
-##### </head>
-##### <body>
+##### *<head>*
+##### *<link rel="stylesheet" href="mystyle.css">*
+##### *</head>*
+##### *<body>*
 
-##### <h1>This is a heading</h1>
-##### <p>This is a paragraph.</p>
+##### *<h1>This is a heading</h1>*
+##### *<p>This is a paragraph.</p>*
 
-##### </body>
-##### </html>
+##### *</body>*
+##### *</html>*
 
 **CSS** file :
 
-body {
+*body {*
 
-  background-color: lightblue;
+  *background-color: lightblue;*
 
-}
+*}*
 
-h1 {
+*h1 {*
 
-  color: navy;
+  *color: navy;*
 
-  margin-left: 20px;
+  *margin-left: 20px;*
 
-}
+*}*
 
 ### Internal CSS
 An internal style sheet may be used if one single HTML page has a unique style.
 
 The internal style is defined inside the <style> element, inside the head section.
-### Example 
-##### <!DOCTYPE html>
-##### <html>
-##### <head>
-##### <style>
-body {
-  background-color: linen;
-}
+### *Example* 
+##### *<!DOCTYPE html>*
+##### *<html>*
+##### *<head>*
+##### *<style>*
+*body {*
+  *background-color: linen;*
+*}*
 
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-##### </style>
-##### </head>
-##### <body>
+*h1 {*
+  *color: maroon;*
+  *margin-left: 40px;*
+*}*
+##### *</style>*
+##### *</head>*
+##### *<body>*
 
-##### <h1>This is a heading</h1>
-##### <p>This is a paragraph.</p>
+##### *<h1>This is a heading</h1>*
+##### *<p>This is a paragraph.</p>*
 
-##### </body>
-##### </html>
+##### *</body>*
+##### *</html>*
 
 
 ### Inline CSS
@@ -82,17 +82,17 @@ An inline style may be used to apply a unique style for a single element.
 
 To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
 
-### Example
+### *Example*
 
-##### <!DOCTYPE html>
-#####  <html>
-##### <body>
+##### *<!DOCTYPE html>*
+#####  *<html>*
+##### *<body>*
 
-##### <h1 style="color:blue;text-align:center;">This is a heading</h1>
-##### <p style="color:red;">This is a paragraph.</p>
+##### *<h1 style="color:blue;text-align:center;">This is a heading</h1>*
+##### *<p style="color:red;">This is a paragraph.</p>*
 
-##### </body>
-##### </html>
+##### *</body>*
+##### *</html>*
 
 
 **For more details visit** [`THIS LINK`](https://www.w3schools.com/css/css_howto.asp)
