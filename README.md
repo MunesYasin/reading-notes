@@ -17,3 +17,20 @@ read07 | [go to](https://munesyasin.github.io/reading-notes/read07)
 
 ## Code 201 Reading Notes
 
+Name of the read | The link
+------------ | -------------
+read01 | [go to]
+read02 | [go to]
+read03 | [go to]
+read04 | [go to]
+read05 | [go to]
+read06 | [go to]
+read07 | [go to]
+read08 | [go to]
+read09 | [go to]
+read10 | [go to]
+read11 | [go to]
+read12 | [go to]
+read13 | [go to]
+read14 | [go to]
+read15 | [go to]
