@@ -22,7 +22,7 @@ read07 | [go to](https://munesyasin.github.io/reading-notes/read07)
 
 Name of the read | The link
 ------------ | -------------
-read01 | [go to]
+read01 | [go to](https://munesyasin.github.io/reading-notes/read201)
 read02 | [go to]
 read03 | [go to]
 read04 | [go to]
