@@ -24,7 +24,7 @@ Name of the read | The link
 ------------ | -------------
 read01 | [go to](https://munesyasin.github.io/reading-notes/read201)
 read02 | [go to](https://munesyasin.github.io/reading-notes/read202)
-read03 | [go to]
+read03 | [go to](https://munesyasin.github.io/reading-notes/read203)
 read04 | [go to]
 read05 | [go to]
 read06 | [go to]
