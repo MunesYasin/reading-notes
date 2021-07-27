@@ -55,4 +55,4 @@ rember to :Grids help create professional and flexible designs.
 ceclaring a Function
 function NameOfFuncion(){ statment ; } NameOfFuncion (3,5) --- this have arguments to use we can use arry with fun. local and global var. to valid lose it
 
-![layout][./csss.jpg]
+![layout][csss.jpg]
