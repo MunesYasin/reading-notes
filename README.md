@@ -29,7 +29,7 @@ read04 | [go to](https://munesyasin.github.io/reading-notes/read204)
 read05 | [go to](https://munesyasin.github.io/reading-notes/read205)
 read06 | [go to](https://munesyasin.github.io/reading-notes/read206)
 read07 | [go to](https://munesyasin.github.io/reading-notes/read207)
-read08 | [go to]
+read08 | [go to](https://munesyasin.github.io/reading-notes/read208)
 read09 | [go to]
 read10 | [go to]
 read11 | [go to]
