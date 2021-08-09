@@ -100,4 +100,4 @@ path is a list of points, connected by segments of lines extra steps for path:
 2. Then you use drawing commands to draw into the path.
 3. Once the path has been created, you can stroke or fill the path to render it.
 
-1[gg](https://i.ytimg.com/vi/f9hPupBtnl4/maxresdefault.jpg)
+1[gg](https://miro.medium.com/max/902/1*CPSTzfUTCCpUbllyiPvl_A.jpeg)
