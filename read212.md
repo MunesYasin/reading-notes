@@ -5,45 +5,82 @@ add in the footer or js `<script> var buyers = document.getElementById('buyers')
 ## add labels
 
 `var buyerData = {`
+
 `labels : ["January","February","March","April","May","June"],`
+
 `datasets : [`
+
 `{`
+
 `fillColor : "rgba(172,194,132,0.4)",`
+
 `strokeColor : "#ACC26D",`
+
 `pointColor : "#fff",`
+
 `pointStrokeColor : "#9DB86D",`
+
 `data : [203,156,99,251,305,247]`
+
 `}`
 `]`
 `}`
+
 2. Drawing a pie charton body , `<canvas id="countries" width="600" height="400"></canvas>`
 ## add context
+
 `var countries= document.getElementById("countries").getContext("2d");`
+
 `new Chart(countries).Pie(pieData, pieOptions);`
+
 `supply a value and a color for each section:`
+
 `var pieData = [`
+
 `{`
+
 `value: 20,`
+
 `color:"#878BB6"`
+
 `},`
+
 `{`
+
 `value : 40,`
+
 `color : "#4ACAB4"`
+
 `},`
+
 `{`
+
 `value : 10,`
+
 `color : "#FF8153"`
+
 `},`
+
 `{`
+
 `value : 30,`
+
 `color : "#FFEA88"`
+
 `}`
+
 `];`
+
 ## add our options
+
 `var pieOptions = {`
+
 `segmentShowStroke : false,`
+
 `animateScale : true`
+
 `} `
+
 ### Basic usage of canvas
 thay have two attribute , width and height and the defult value are 300 pixels wide and 150 pixels high
 ### Required tag
