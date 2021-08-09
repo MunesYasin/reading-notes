@@ -34,6 +34,6 @@ read09 | [go to](https://munesyasin.github.io/reading-notes/read209)
 read10 | [go to](https://munesyasin.github.io/reading-notes/read210)
 read11 | [go to](https://munesyasin.github.io/reading-notes/read211)
 read12 | [go to](https://munesyasin.github.io/reading-notes/read212)
-read13 | [go to]
+read13 | [go to](https://munesyasin.github.io/reading-notes/read213)
 read14 | [go to]
 read15 | [go to]
