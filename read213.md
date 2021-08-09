@@ -12,16 +12,28 @@ it based on named key/value pairs. The named key is always a string If you are s
 HTML5 STORAGE IN ACTION How does it work? Every time a change occurs within the game, we call this function:
 
 `function saveGameState() {`
+
 `if (!supportsLocalStorage()) { return false; }`
+
 `localStorage["halma.game.in.progress"] = gGameInProgress;`
+
 `for (var i = 0; i < kNumPieces; i++) {`
+
 `localStorage["halma.piece." + i + ".row"] = gPieces[i].row;`
+
 `localStorage["halma.piece." + i + ".column"] = gPieces[i].column;`
+
 `}`
+
 `localStorage["halma.selectedpiece"] = gSelectedPieceIndex;`
+
 `localStorage["halma.selectedpiecehasmoved"] = gSelectedPieceHasMoved;`
+
 `localStorage["halma.movecount"] = gMoveCount;`
+
 `return true;`
+
 `}`
+
 
 ![j](https://learninfinity.info/wp-content/uploads/2017/05/Utilizing-browser-local-storage-for-client-site-script-in-any-web-application.jpg)
