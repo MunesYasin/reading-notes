@@ -44,4 +44,4 @@ client is asked to approve the authorization transaction to the second website.
 12. OAuth is not the first authentication/authorization system to work this way on behalf of the end-user. In fact, many authentication systems, notably Kerberos, work similarly. What is special about OAuth is its ability to work across the web and its wide adoption. It succeeded with adoption rates where previous attempts failed (for various reasons).
 
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCPbvxxslDTU&psig=AOvVaw1tFrgX52XO_LN3K6AKhFXC&ust=1632509847040000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNijx5_jlfMCFQAAAAAdAAAAABAD)
+![img](https://i.ytimg.com/vi/6znYAIgvzG4/maxresdefault.jpg)
