@@ -144,6 +144,8 @@ Problem-solving skills are almost unanimously the most important qualification t
 
 Demonstrating computational thinking or the ability to break down large, complex problems is just as valuable (if not more so) than the baseline technical skills required for a job.” — Hacker Rank (2018 Developer Skills Report)
 
+![img](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200326191711/How-to-Think-Like-a-Programmer.png)
+
 ## 5 Whys 
 
 **How to Use the 5 Whys** 
