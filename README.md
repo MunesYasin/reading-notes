@@ -64,3 +64,4 @@ read13 | [go to](https://munesyasin.github.io/reading-notes/read313)
 Name of the read | The link
 ------------ | -------------
 read01 | [go to](https://munesyasin.github.io/reading-notes/read401)
+read02 | [go to](https://munesyasin.github.io/reading-notes/read402)
