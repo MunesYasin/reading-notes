@@ -2,24 +2,25 @@
 
 ## Review, Research, and Discussion 
 
-**Name 3 real world use cases where you’d want to change the request with custom middleware** 
+* **Name 3 real world use cases where you’d want to change the request with custom middleware** 
 
 1. Login authentication 
 2. Async Actions 
 3. Data streaming
 
-**True or false: The route handler is middleware?**
+* **True or false: The route handler is middleware?**
+
 true 
 
-**In what ways can a middleware function end the process and send data to the browser?** 
+* **In what ways can a middleware function end the process and send data to the browser?** 
 
 Through the use of the next() Or 500 errors. If an error is triggered, it will end the WRRC and send the 500 message to the user through the broswer. 
 
-**At what point in the request lifecycle can you “inject” middleware?**
+* **At what point in the request lifecycle can you “inject” middleware?**
 
 Middleware can be injected to shape the way the request object 
 
-**What can cause express to error with “Request headers sent twice, cannot start a second response”** 
+* **What can cause express to error with “Request headers sent twice, cannot start a second response”** 
 
 When a server tries to send several responses for one request 
 
