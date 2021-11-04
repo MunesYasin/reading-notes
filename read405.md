@@ -42,3 +42,60 @@ Jest | a JavaScript testing framework used for creating, running, and structurin
 Continuous Integration (CI) | the practice of automating the integration of code changes from multiple contributors into a single software project.
 REST |  architectural style for providing standards between computer systems (like clients or servers) on the web, making it easier for systems to communicate with each other.
 Data Model | an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities. 
+
+## Preview
+
+ * **Which 3 things had you heard about previously and now have better clarity on?**
+
+* TDD
+* Continuous Integration (CI)
+* ES6 Classes
+
+* **Which 3 things are you hoping to learn more about in the upcoming lecture/demo?**
+
+* PostgreSQL
+* Testing
+* Data Modeling
+
+* **What are you most excited about trying to implement or see how it works?**
+
+* Data Structures
+* Authentication
+* SQL Databases
+
+## SQL vs NoSQL Database 
+
+*  SQL (Relational Databases): a good design (scheme and constraints defined correctly and transactions are used properly) allows the database engine to guarantee consistency based on that design.
+
+*  NoSQL: lower consistency of information (it is a responsibility of the developer  to ensure consistency... some time this could be very difficult).
+
+* **SQL Database Examples :**
+
+* MySQL Community Edition
+* MS-SQL Server Express Edition
+* Oracle Express Edition
+* **NoSQL Database Examples**
+
+* MongoDB
+* CouchDB
+* Redis
+
+![img](https://cdn-images-1.medium.com/fit/t/1600/480/0*xoC2DeugTHSh5yFV.jpg)
+
+## sql modeling techniques :
+
+There are many types of modeling software you can use to create models, such as MySql Workbench, which not only create smart looking diagrams
+
+ **Model a relational database table that include :**
+
+* The Table Name, which is located at the top of the table.
+* The Primary Keys. Remember the primary keys uniquely identify each row in a table. A table typically has one primary key, but can have more. When the key has more than one column, it is called a compound key.
+* Table Columns – There can be one or more table columns. To keep the diagrams simple, I don’t show the data types. I may introduce those later when we focus on more comprehensive modeling.
+* Foreign Key – This is a column or set of columns which match a primary key in another table.
+
+**Data Modeling – Table Relationships** 
+
+* one-to-many relationship : an entry in one table can be related to more than one entry in another.
+* many-to-one relationship: is similar to a one-to-many relationship, this difference is in the point-of-view you take when naming the relationship
+* one-to-one
+* zero or one-to-many
