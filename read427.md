@@ -14,13 +14,13 @@ Event handling in HTML and React are different from one another in terms of synt
 A functional component is just a plain JavaScript function that accepts props as an argument and returns a React element. A class component requires you to extend from React. Component and create a render function which returns a React element. There is no render method used in functional components
  
 
- ## Term 
+## Term 
 
  * Functional Components: These are React components written as functions rather than classes, and have a host of hooks available to them to enable React functionality.
 
  * Children / Child Components: Children components are contained within a parent component.
 
- ## Preview 
+## Preview 
 
  1. Which 3 things had you heard about previously and now have better clarity on? 
 
