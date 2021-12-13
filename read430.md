@@ -45,4 +45,4 @@ This is similar to the original neighborhood names stored in an array with their
 
 Here’s an actual example of just one bucket in a real hash map. In this example the two different keys "Pioneer Square" and "Alki Beach" happen to ultimately resolve to the same bucket. When we look at the bucket we see a representation of the Linked List that exists there. Pioneer Square was added first, so it’s at the front of the list. Then there’s Alki Beach as the second element in the linked list. Notice that both of them store the entire key/value pair.
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fcodex%2Fhash-tables-hashing-and-collision-handling-8e4629506572&psig=AOvVaw1-40WENyWbAiDLsfvuedVN&ust=1639515108018000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLj9iu_T4fQCFQAAAAAdAAAAABAO)
+![img](https://www.jsmount.com/wp-content/uploads/2021/02/hash-table-structure.png)
